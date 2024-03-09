@@ -12,6 +12,6 @@ ___
 This course was the first in which I had contact with JavaScript, the aim was to create a page that had an interactive button that changed the theme of the site, from a light theme to a dark theme, which I really enjoyed, even with a simple project. I highly recommend it for beginners like me. Several other projects will come from this.
 ___
 ### Explore, collaborate, and learn about my projects on my GitHub profile:
- * Repositories on [GitHub](https://github.com/diasdavizin)
+ * Repositories on [GitHub](https://github.com/diasdavizin).
 ***
 **Thank you for your attention!**
